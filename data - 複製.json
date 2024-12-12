@@ -1,7 +1,7 @@
 {
   "deckName": "Vocabulary Deck",
   "model": {
-    "name": "Basic",
+    "name": "Basic Model",
     "fields": ["Term", "Definition"],
     "templates": [
       {
@@ -14,7 +14,7 @@
   "notes": [
     {
       "fields": ["North Richmond Street", "A quiet dead-end (blind) street where the Christian Brothers' School is located."],
-      "tags": ["street", "location"]
+      "tags": ["location", "street"]
     },
     {
       "fields": ["Uninhabited", "Not lived in; vacant or empty. Describes the abandoned house."],
